@@ -3,7 +3,8 @@
 } */
 body{
   /* background-image: linear-gradient(to right, #5DFDCB, #90D7FF); */
-  background: radial-gradient(circle at 10% 20%, rgb(255, 229, 168) 0%, rgb(251, 174, 222) 100.7%);
+    background-image: linear-gradient(to right, rgb(255, 229, 168),rgb(251, 174, 222));
+  /* background: radial-gradient(circle at 10% 20%,  0%,  100.7%); */
 }
 .container-fluid {
     padding-top: 70px;
